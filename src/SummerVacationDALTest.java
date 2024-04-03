@@ -10,4 +10,9 @@ public class SummerVacationDALTest {
     public void testInitializeConnection() {
         
     }
+
+    @Test
+    public void testAddPlan() {
+        
+    }
 }
